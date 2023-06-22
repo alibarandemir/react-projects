@@ -1,0 +1,24 @@
+.Categories ul{
+    display: flex;
+    list-style: none;
+}
+.Categories ul li{
+    background-color: #CFE8A9;
+    margin: 40px 60px 5px 10px;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.Icon{
+    font-size: 28px;
+    color: #E64848;
+    margin-top: 8px;
+}
+.Category{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
