@@ -12,8 +12,6 @@ function App() {
           <SearchBar/>
       </nav>
       <Pages/>
-      
-
     </div>
   );
 }
